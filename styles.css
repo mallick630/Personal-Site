@@ -1,0 +1,72 @@
+body{
+  background-color: #66BFBF;
+  text-align: center;
+}
+h1{
+  font-size: 70px;
+  margin-bottom: 70px;
+  /*color: #00adb5;*/
+}
+h2{
+  font-size: 2.5rem;
+  /*color: #00adb5;*/
+  font-weight: normal;
+}
+h3{
+  text-decoration: underline;
+}
+/*
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}*/
+.top-cloud{
+  position: absolute;
+  left: 1100px;
+  top: 80px;
+}
+.name{
+  text-align: center;
+  position: absolute;
+  left: 425px;
+  top: 140px;
+  font-family: 'Dancing Script', cursive;
+  /*font-family: 'Andika New Basic', sans-serif;*/
+}
+.bottom-cloud{
+  position: absolute;
+  top: 350px;
+  left: 250px;
+}
+.mountain{
+  position: absolute;
+  left: 450px;
+  top: 350px;
+}
+.my-pic{
+  height: 150px;
+  border-radius: 50%;
+  position: absolute;
+  left: 660px;
+  top: 800px;
+}
+.middle-container{
+  position: absolute;
+  top: 950px;
+  left: 335px;
+  font-family: 'Andika New Basic', sans-serif;
+}
+.bottom-container{
+  position: absolute;
+  top: 3300px;
+  left: 640px;
+}
+.skill-row{
+  width: 50%;
+}
+.karate-kid{
+  position: relative;
+  right: 80px;
+}
